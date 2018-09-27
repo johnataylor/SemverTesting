@@ -1,5 +1,7 @@
 [![Build Status](https://fuselabs.visualstudio.com/SDK_v4/_apis/build/status/experimental/(Scratch)%20Leaning%20how%20to%20Build%20and%20Sign)](https://fuselabs.visualstudio.com/SDK_v4/_build/latest?definitionId=305)
 
+[![Coverage Status](https://coveralls.io/repos/github/cleemullins/SemverTesting/badge.svg?branch=master)](https://coveralls.io/github/cleemullins/SemverTesting?branch=master)
+
 # CI/CD Builds
 The VSO Build system drops NuGet packages to MyGet [MyGet Semver Package Feed](https://botbuilder.myget.org/feed/Packages/semvertesting)
 Note: This is a private feed for testing, that only I have access to. 
