@@ -8,7 +8,7 @@ namespace SimplePackage
         {
         }
 
-        public bool AreTrainsAwesome { get; } = true;
+        public bool AreTrainsAwesome { get; } = false;
 
         public bool ArePlanesAwesome { get; } = true;
 
