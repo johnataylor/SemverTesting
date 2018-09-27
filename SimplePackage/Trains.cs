@@ -13,5 +13,7 @@ namespace SimplePackage
         public bool ArePlanesAwesome { get; } = true;
 
         public bool AreAutomobilesAwesome { get; } = true;
+        
+        // no bikes?
     }
 }
